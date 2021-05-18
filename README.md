@@ -1,2 +1,2 @@
 # TripManager
-TripManager using ASP.NET +ReactJS + Redux.
+TripManager using ASP.NET + ReactJS + Redux.
