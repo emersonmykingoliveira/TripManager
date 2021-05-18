@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zz6fW7v9R0rOVm+Q3OVcA6M036juGuaccYbtbQo9aD0eH/eo0BHJwwt8cs5HJlipBcHOPzAeQTx/4BpNkYMexw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emers\\Documents\\GitHub\\TripManager\\Trips.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emers\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.5\\microsoft.aspnetcore.spaservices.extensions.5.0.5.nupkg.sha512",
+    "C:\\Users\\emers\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\emers\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\emers\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\emers\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
